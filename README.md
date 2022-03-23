@@ -1,10 +1,24 @@
+# Rogen Douglas
+<div align="center">
+ <a href="https://www.linkedin.com/in/rogen-douglas-00412945/">
+      <img src="https://img.shields.io/badge/LinkedIn-3D6098?style=flat&logo=linkedin&labelColor=3D6098" height="22"/>
+    </a>
+     <a href="mailto:rogendouglas@hotmail.com">
+      <img src="https://img.shields.io/badge/Outlook--000?style=social&logo=microsoft-outlook&logoColor=0078d4" height="22"/>
+    </a>
+</div>
+
+</br>
+
 <div>
   <a href="https://github.com/RogenDouglas" />
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=RogenDouglas&show_icons=true&count_private=true&theme=dark&include_all_commits=true" />
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogenDouglas&layout=compact&theme=dark" />
 </div>
 
-<div style="display: inline_block"><br>
+</br>
+
+<div style="display: inline_block">
   <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
@@ -22,7 +36,8 @@
   <img align="center" alt="sqlserver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" alt="gitlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg">
-  
 </div>
+
+</br>
 
 ![Snake animation](https://github.com/RogenDouglas/RogenDouglas/blob/output/github-contribution-grid-snake.svg)
