@@ -40,6 +40,7 @@
 
 <!-- ![Snake animation](https://github.com/RogenDouglas/RogenDouglas/blob/output/github-contribution-grid-snake.svg) -->
 
-<p align="center">
+</br></br>
+<p>
   <img src="https://visitor-badge.glitch.me/badge?page_id=rogendouglas" alt="visitor badge" />
 </p>
